@@ -33,3 +33,5 @@ The following code creates two random signals and plots correlation with specifi
 ```
 
 ![pic](xcorr_example.png)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3953674.svg)](https://doi.org/10.5281/zenodo.3953674)
